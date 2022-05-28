@@ -1,0 +1,165 @@
+body {
+	font-family: 'Ubuntu', sans-serif;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+p{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    }
+	
+	
+
+
+/* Custom Sidebar */
+
+
+/* Header & Navigation */
+#header_div {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    left: 0px;
+    right: 0px;
+	background-color: #252D36;
+	height: 70px;
+
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+
+.button {
+  background-color: #336699; 
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 8px;
+  font-weight: 400;
+  float: right;
+  
+  /* If you are having issues with the button positioning, try changing the margin values below. */
+  margin: 15px 10px;
+
+}
+
+	
+.commandsButton {
+  background-color: #336699; 
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.commandsButton:hover {
+  background-color: #6495ed; 
+}
+
+.addButton {
+  background-color: #336699; 
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.addButton:hover {
+  background-color: #6495ed;
+}
+
+.supportButton {
+  background-color: #336699; 
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.supportButton:hover {
+  background-color: #6495ed; 
+}
+
+/* Content */
+
+#content {
+	background-color: #2B3642; /* 13161A*/
+	color: white;
+	height: 1000px;
+	
+	
+}
+
+#slogan{
+	position: absolute;
+	text-align: center;
+	font-size: 30px;
+	left: 15%;
+	width: 400px;
+	top: 280px;
+		
+}
+
+.addButton2 {
+      position: absolute;
+	  background-color: #336699; 
+	  font-family: 'Ubuntu', sans-serif;
+	    top: 400px;
+		left: 15%
+}
+.addButton2:hover {
+  background-color: #6495ed;
+}
+
+.commandsButton2 {
+  position: absolute;
+  background-color: #336699; 
+  font-family: 'Ubuntu', sans-serif;
+    top: 400px;
+  left: 28.5%;
+}
+
+.commandsButton2:hover {
+  background-color: #6495ed; 
+}
+
+
+
+#featuresimg {
+	position: absolute;
+	right: 25%;
+	top: 10%;
+}
+
+
+/* Footer */
+
+#footer {
+	background-color: #252D36;
+	color: white;
+	height: 70px;
+}
+
+#credit {
+	color: white;
+	text-align: center;
+	padding-top: 25px;
+}
