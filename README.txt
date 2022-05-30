@@ -1,6 +1,6 @@
 Thank you for downloading this landing page!
 
-To edit the page, go into the index.html file.
+To edit the page, right click the index.html file and edit with notedpad / notepad++ / whatever you use.
 
 This is the landing page (the index.html page), no other pages are included.
 
